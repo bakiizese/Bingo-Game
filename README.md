@@ -120,12 +120,6 @@ Bingo-Game/
 
 ---
 
-## 📸 Screenshots
-
-Add gameplay images here to make your README more attractive.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.

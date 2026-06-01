@@ -9,7 +9,6 @@ This project focuses on core game logic, state management, and clean mobile UI d
 
 Add screenshots or screen recordings here:
 
-```
 <img width="1080" height="2340" alt="Screenshot_20260601_115922_Expo Go" src="https://github.com/user-attachments/assets/37f380fc-b9ef-421d-b699-93624fd775cd" />
 
 <img width="1080" height="3047" alt="Screenshot_20260601_120001_Expo Go" src="https://github.com/user-attachments/assets/dadaddf8-7cb9-44ca-a9bd-92763f2d2dbd" />
@@ -17,7 +16,7 @@ Add screenshots or screen recordings here:
 <img width="1080" height="2340" alt="Screenshot_20260601_115950_Expo Go" src="https://github.com/user-attachments/assets/d993562b-2a3d-4320-a474-ea804a8099d6" />
 
 <img width="1080" height="3487" alt="Screenshot_20260601_115936_Expo Go" src="https://github.com/user-attachments/assets/67b1af31-8ea2-4354-90cd-e5d4d91e765b" />
-```
+
 
 ---
 
